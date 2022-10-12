@@ -5,6 +5,6 @@ A small React app for managing my To-Do goals, based on the course "React - The 
 ## App snapshots:
 
 
-![image](https://user-images.githubusercontent.com/73782770/195295099-71b4539b-1100-43d9-a823-2953098ab730.png)
+![delete me](https://user-images.githubusercontent.com/73782770/195299775-f69193dd-4820-4d86-8916-a21681729d2a.png)
 
-![image](https://user-images.githubusercontent.com/73782770/195295232-d18bdd4c-f345-403c-87e9-712d042aa86d.png)
+![delete me1](https://user-images.githubusercontent.com/73782770/195299752-da85c6ea-cc58-4f32-bd17-15d736d9e83c.png)
