@@ -1,4 +1,4 @@
-# To-Do Goals app
+# To-Do Goals App
 
 A small React app for managing my To-Do goals, based on the course "React - The complete guide" trained by "Maximilian Schwarzmüller" focused on styling React components dynamically using different approaches, scoped CSS styles with Styled-Components and CSS modules.
 
